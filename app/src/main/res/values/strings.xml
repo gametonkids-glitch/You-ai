@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ShortsFlow</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_scheduled">Queue</string>
+    <string name="nav_published">Published</string>
+    <string name="nav_settings">YouTube</string>
+
+    <string name="header_create_short">New YouTube Short</string>
+    <string name="subtitle_create_short">Pick a video, add metadata, and schedule your release</string>
+    <string name="select_video">Select Video</string>
+    <string name="change_video">Change Video</string>
+    <string name="video_hint">Vertical video (9:16) up to 60 seconds works best for Shorts</string>
+
+    <string name="label_title">Short Title</string>
+    <string name="placeholder_title">E.g. 5 Coding Tricks That Will Blow Your Mind! #Shorts</string>
+    <string name="label_caption">Caption &amp; Description</string>
+    <string name="placeholder_caption">Write your catchy caption, hashtags, and description here...</string>
+    <string name="label_tags">Tags (comma separated)</string>
+    <string name="placeholder_tags">Shorts, viral, tech, coding, tips</string>
+    <string name="label_category">Category</string>
+
+    <string name="label_timing">Publishing Schedule</string>
+    <string name="option_publish_now">Upload &amp; Publish Immediately</string>
+    <string name="option_schedule_later">Schedule for Specific Time</string>
+    <string name="btn_select_date">Date</string>
+    <string name="btn_select_time">Time</string>
+
+    <string name="privacy_setting">YouTube Privacy</string>
+    <string name="privacy_public">Public</string>
+    <string name="privacy_unlisted">Unlisted</string>
+    <string name="privacy_private">Private</string>
+
+    <string name="btn_schedule">Schedule Video</string>
+    <string name="btn_upload_now">Upload to YouTube</string>
+    <string name="btn_save_draft">Save Draft</string>
+    <string name="btn_ai_generate">✨ AI Metadata Assistant</string>
+
+    <string name="title_queue">Scheduled Queue</string>
+    <string name="empty_queue">No scheduled shorts yet. Tap Create to schedule your first short video!</string>
+    <string name="title_history">Published Videos</string>
+    <string name="empty_history">No published shorts yet. Completed uploads will appear here with YouTube links.</string>
+
+    <string name="status_draft">Draft</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_uploading">Uploading</string>
+    <string name="status_published">Published</string>
+    <string name="status_failed">Failed</string>
+
+    <string name="youtube_config_title">YouTube Channel Connection</string>
+    <string name="youtube_connected">Connected</string>
+    <string name="youtube_disconnected">Not Connected</string>
+</resources>
